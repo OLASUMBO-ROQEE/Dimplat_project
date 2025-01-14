@@ -41,3 +41,18 @@ In the initial phase of the data cleaning and preparation, we performed the foll
  ---
  This is where we include some basic class of codes or the DAX expression used during your analysis
 
+ 
+![Screenshot 2024-12-06 022542](https://github.com/user-attachments/assets/31eb5b59-1483-458b-9820-31db6458ccf6)
+
+
+![Screenshot 2024-12-06 022638](https://github.com/user-attachments/assets/b8fc348c-4de6-4d69-b3ae-ff6ccc17bde7)
+
+
+
+![Screenshot 2024-12-06 022840](https://github.com/user-attachments/assets/6dcd0803-6558-4d94-8cdf-68b07a0a8dcc)
+
+
+
+
+
+

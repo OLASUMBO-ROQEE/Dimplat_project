@@ -12,7 +12,7 @@ Data cleaning and preparation
 
 ### Project Overview
 ---
-This Data Analysis Project aims to generate insight into te financial report of an organization. By analysing tge various parameters in te dataset. It seeks to gather enough insight to make rrasonable decisions whivh will help tell compelling stories around our data from the insight gotten.
+This Data Analysis Project aims to generate insight into te financial report of an organization. By analysing tge various parameters in te dataset. It seeks to gather enough insight to make reasonable decisions whivh will help tell compelling stories around our data from the insight gotten.
 
 ### Tools Used
 
